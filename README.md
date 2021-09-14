@@ -13,7 +13,7 @@ Start by filling out [this survey](https://docs.google.com/forms/d/1izilMBRoE3kr
 1. [Developer onboarding](#developer-onboarding)
 2. [Designer onboarding](#designer-onboarding)
 3. [Other species onboarding](#other-species-onboarding)
-4. [Setting up your own project at Moonshot](#setting-up-your-own-project-at-moonshot)
+4. [Setting up your own project at Moonshot](#starting-a-project-at-moonshot-:rocket:)
 5. [Call schedule](#call-schedule)
 
 ## Developer onboarding :computer: 
@@ -46,8 +46,7 @@ It can give you a flavour for the type of UI to expect and how Metamask works.
 
 Join telegram discussions and our daily calls. Here, you can see how projects look and offer your help if you find some poor developers in need of some design guidance.
 
-## Other species onboarding 
-:artist: 
+## Other species onboarding 👽
 
 We don't have systematic onboarding steps for other roles at the minute but we would still love your input. Our collective will be more innovative if we have a diverse group of people so please get involved on telegram and the daily calls and we will find a place for you.
 
