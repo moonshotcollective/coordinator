@@ -34,7 +34,7 @@ This will let you meet current MC members and expose you to current projects bei
 A good way to start contributing to existing projects is testing out builds, writing documentation and doing code reviews. Most projects have telegram specific channels so you should ask existing members to invite you and get a bit closer to the action. You can also look at the [repos for current projects here](https://github.com/orgs/moonshotcollective/repositories).
 
 
-At this stage, you should be ready to begin contributing code to existing projects or even [setting up one of your own](#setting-up-your-own-project-at-moonshot)! :rainbow: 
+At this stage, you should be ready to begin contributing code to existing projects or even [setting up one of your own](#starting-a-project-at-moonshot)! :rainbow: 
 
 ## Designer onboarding :artist: 
 
@@ -50,7 +50,7 @@ Join telegram discussions and our daily calls. Here, you can see how projects lo
 
 We don't have systematic onboarding steps for other roles at the minute but we would still love your input. Our collective will be more innovative if we have a diverse group of people so please get involved on telegram and the daily calls and we will find a place for you.
 
-## Setting up your own project at Moonshot :rocket:
+## Starting a project at Moonshot :rocket:
 
 
 Do you have a cool idea that you'd like to set up?
