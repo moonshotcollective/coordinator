@@ -13,7 +13,7 @@ Start by filling out [this survey](https://docs.google.com/forms/d/1izilMBRoE3kr
 1. [Developer onboarding](#developer-onboarding)
 2. [Designer onboarding](#designer-onboarding)
 3. [Other species onboarding](#other-species-onboarding)
-4. [Setting up your own project at Moonshot](#starting-a-project-at-moonshot-🚀)
+4. [Starting a project at Moonshot](#starting-a-project-at-moonshot-🚀)
 5. [Call schedule](#call-schedule)
 
 ## Developer onboarding :computer: 
