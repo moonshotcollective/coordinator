@@ -51,6 +51,7 @@ Join telegram discussions and our daily calls. Here, you can see how projects lo
 We don't have systematic onboarding steps for other roles at the minute but we would still love your input. Our collective will be more innovative if we have a diverse group of people so please get involved on telegram and the daily calls and we will find a place for you.
 
 <p style='color:white'>## Starting a project at Moonshot</p>
+
 ## Starting a project at Moonshot 🚀
 
 
