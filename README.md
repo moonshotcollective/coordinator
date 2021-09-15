@@ -1,7 +1,7 @@
 # **Welcome Cryptonauts - Are you ready to build the future?**
 
 
-The *purpose* of this repo is to help you find your place within the [Moonshot Collective](moonshotcollective.space).
+The *purpose* of this repo is to help you find your place within the [Moonshot Collective](https://www.moonshotcollective.space).
 
 We are always open for new contributors and welcome new ideas. No idea is too stupid to be discussed, we can all laugh about it at the very least. :smiley: 
 
@@ -10,10 +10,10 @@ Everyone has a different journey within the collective and you can choose how yo
 Start by filling out [this survey](https://docs.google.com/forms/d/1izilMBRoE3krtTPmHR9Tbw1ScvX6gSYBFltCGp7gv6A/edit) so we can bring relevant opportunities to your doorstep.
 
 # Contents
-1. [Developer onboarding](#developer-onboarding)
-2. [Designer onboarding](#designer-onboarding)
-3. [Other species onboarding](#other-species-onboarding)
-4. [Starting a project at Moonshot](#starting-a-project-at-moonshot-🚀)
+1. Developer onboarding
+2. Designer onboarding
+3. Other species onboarding
+4. [Starting a project at Moonshot](#starting-a-project-at-moonshot)
 5. [Call schedule](#call-schedule)
 
 ## Developer onboarding :computer: 
@@ -50,6 +50,7 @@ Join telegram discussions and our daily calls. Here, you can see how projects lo
 
 We don't have systematic onboarding steps for other roles at the minute but we would still love your input. Our collective will be more innovative if we have a diverse group of people so please get involved on telegram and the daily calls and we will find a place for you.
 
+<p style='color:white'>## Starting a project at Moonshot</p>
 ## Starting a project at Moonshot 🚀
 
 
