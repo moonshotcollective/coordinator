@@ -1,7 +1,7 @@
 # **Welcome Cryptonauts - Are you ready to build the future?**
 
 
-The *purpose* of this repo is to help you find your place within the [Moonshot Collective](https://www.moonshotcollective.space).
+The *purpose* of this repo is to help you find your place within the [Moonshot Collective](https://moonshotcollective.space).
 
 We are always open for new contributors and welcome new ideas. No idea is too stupid to be discussed, we can all laugh about it at the very least. :smiley: 
 
