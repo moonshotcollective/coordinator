@@ -10,9 +10,13 @@ Everyone has a different journey within the collective and you can choose how yo
 
 # Contents
 **1. Developer onboarding :computer:**
+
 **2. Designer onboarding :artist:**
+
 **3. Other species onboarding 👽**
+
 **4. Starting a project at Moonshot :rocket:**
+
 **5. Call schedule 📞**
 
 ## Developer onboarding :computer: 
