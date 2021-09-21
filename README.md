@@ -43,6 +43,7 @@ A good way to start contributing to existing projects is testing out builds, wri
 At this stage, you should be ready to begin contributing code to existing projects or even [setting up one of your own](#starting-a-project-at-moonshot)! :rainbow: 
 
 **4. Contact Ryan to setup a call for your personal plan of action**
+
 You can send him a message on Telegram by clicking [here](https://t.me/moonshotcoordinator).
 
 ## Designer onboarding :artist: 
