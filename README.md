@@ -111,9 +111,6 @@ Talk about anything with the squad every Monday - Friday 1pm EST / 5pm GMT
 
 Demo what you've built every Friday at 2pm EST / 6pm GMT
 
-**Troubleshooting & debugging with Bliss** :bug:
-
-Get help with bugs every Monday - Thursday at 2pm EST / 6pm GMT. [Add to your calendar](https://www.addevent.com/event/cY8327124)
 
 **Member check in** :bug:
 
