@@ -1,6 +1,6 @@
 # Welcome to Moonshot Collective :)
 
-It's 02021 and Ryan Coordinator is here to help in case you get stuck - find me on Telegram at @moonshotcoordinator.
+It's 02021 and Ryan Coordinator is here to help in case you get stuck - find me on Telegram at @moonshotcoordinator :)
 
 # **Welcome Cryptonauts - Are you ready to build the future?**
 
