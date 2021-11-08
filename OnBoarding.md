@@ -1,4 +1,4 @@
-#Onboarding Email Templatefor Onboarding session Thursday November 11, 2021 by Matthew Carano
+#Onboarding Email Template by Matthew Carano
 
 Hey there!
 
